@@ -7,7 +7,7 @@
 
 #### Here's some things I'm doing:
   - Coding the game of Set in Python (for my Computer Programming class in high school)
-    - The repo is private for now (I don't want other classmates stealing the code) but I'll make it public once I finish. *Update: Projects are graded and I also have feedback, but still can't release as of 5/7.
+    - The repo is private for now (I don't want other classmates stealing the code) but I'll make it public once I finish. *Update: Projects are graded and I also have feedback, but still can't release as of 5/7.*
     - Currently, I'm trying to make it multiplayer in real-time over the internet, which is hard. There's one bug which keeps popping up - I almost have it squashed, but it still appears under some circumstances...
   - Working on software for my robotics team, @Team846 
   - Slowly improving my **ASCII Hangman** game
