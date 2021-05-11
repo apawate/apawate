@@ -3,8 +3,6 @@
 ### I'm a 9th grader with avid interests in many aspects of coding.
 ###
 
-![apawate's Github Stats](https://github-readme-stats.vercel.app/api?username=apawate&show_icons=true)
-
 #### Here's some things I'm doing:
   - Coding the game of Set in Python (for my Computer Programming class in high school)
     - The repo is private for now (I don't want other classmates stealing the code) but I'll make it public once I finish. *Update: Projects are graded and I also have feedback, but still can't release as of 5/7.*
