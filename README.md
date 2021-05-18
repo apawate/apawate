@@ -16,6 +16,6 @@
   - [**Set Game**](https://github.com/apawate/Python3-Set-Game-2021): Basic functionality is good for the most part, and it can (almost) be played in realtime over the internet. Just waiting until I have the green light from my CS teacher to make it public...
   - [**ASCII Hangman**](https://github.com/apawate/ascii-hangman): Something interesting I made in just over an hour. A simple game of hangman using ASCII characters and Python. 
   - [**Dog**](https://github.com/HuangPatrick16777216/dog): Like the Unix command `cat`, except with cool stuff like syntax highlighting (because dogs are cooler than cats). Collaborating with [@HuangPatrick16777216](https://github.com/HuangPatrick16777216), to whom all the credit goes since he had the idea and has coded nearly all of it.
-  - [**GraphSCII**](https://github.com/apawate/graphscii): A graphics library using ASCII. Currently under development.
+  - [**GraphSCIIcs**](https://github.com/apawate/graphsciics): A graphics library using ASCII. Currently under development.
 
 
