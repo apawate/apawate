@@ -4,7 +4,7 @@
 
 #### Here's some things I'm doing:
   - Coding the [game of Set](https://github.com/apawate/Python3-Set-Game-2021) in Python (for my Computer Programming class in high school)
-    - The repo is **public**! (_Thanks, @psmaker_)
+    - The repo is **public** and ready for contributions! (_Thanks, @psmaker_)
     - Currently, I'm trying to make it multiplayer in real-time over the internet, which is hard. There's one bug which keeps popping up - I almost have it squashed, but it still appears under some circumstances...
   - Working on software for my robotics team, [@Team846](https://github.com/Team846) 
   - Slowly improving my [**ASCII Hangman**](https://github.com/apawate/ascii-hangman) game
