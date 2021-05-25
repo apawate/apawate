@@ -2,6 +2,12 @@
 
 ### I'm a 9th grader with avid interests in many aspects of coding.
 
+![apawate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apawate&show_icons=true)
+
+![apawate's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apawate)
+
+
+
 #### Here's some things I'm doing:
   - Coding the [game of Set](https://github.com/apawate/Python3-Set-Game-2021) in Python (for my Computer Programming class in high school)
     - The repo is **public** and ready for contributions! (_Thanks, @psmaker_)
