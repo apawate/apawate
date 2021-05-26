@@ -6,6 +6,9 @@
 
 ![apawate's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apawate)
 
+![Profile Views](https://komarev.com/ghpvc/?username=apawate)
+
+
 
 
 #### Here's some things I'm doing:
