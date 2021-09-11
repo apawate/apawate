@@ -12,6 +12,7 @@
 
 
 #### Here's some things I'm doing:
+  - Working on [Piano Video](https://github.com/apawate/piano_video) with @phuang1024.
   - Working on software for my robotics team, [@Team846](https://github.com/Team846) 
   - Slowly improving my [**ASCII Hangman**](https://github.com/apawate/ascii-hangman) game
   - Developing my [**Website**](https://apawate.github.io)
