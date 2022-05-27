@@ -12,13 +12,13 @@
 
 
 #### Here's some things I'm doing:
-  - Working on [**whoWon**](https://github.com/apawate/whoWon), a track race finish program. 
+  - Working on [**FinishCam**](https://github.com/adarshramiyer/finishcam), a track race finish program. 
   - Working on [**Mappy**](https://github.com/apawate/mappy), which is an Arduino mapping and route-saving robot
   - Working on software for my robotics team, [@Team846](https://github.com/Team846) 
   - Working on [**Abotstya**](https://github.com/apawate/abotstya), a Discord bot
 
 #### Active repos:
-  - [**whoWon**](https://github.com/apawate/whoWon): A track finish program.
+  - [**FinishCam**](https://github.com/adarshramiyer/finishcam): A track finish program.
   - [**Mappy**](https://github.com/apawate/mappy): A map and route Arduino robot. 
   - [**Abotstya**](https://github.com/apawate/abotstya): A Discord bot that does random things.
 
