@@ -1,6 +1,6 @@
 ### Hello!
 
-### I'm a 10th grader with avid interests in many aspects of coding.
+### I'm a 11th grader with avid interests in many aspects of coding.
 
 ![apawate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apawate&show_icons=true)
 
